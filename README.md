@@ -1,4 +1,4 @@
 # Favorite-movies-
 
-*Stranger things
-*The Experimenter
+* Stranger things
+* The Experimenter
